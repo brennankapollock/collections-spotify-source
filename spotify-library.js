@@ -1,8 +1,8 @@
 // Spotify library (1.0)
 
 app.api.spotify = {
-  clientId: 'b8244e4327204bc2b36a83ac8d1a5185',
-  clientSecret: '5cecdb866a84465d94ce62e3cc2a1254',
+  clientId: 'INSERT',
+  clientSecret: 'INSERT',
   accessToken: undefined,
   tokenExpiry: undefined,
 
